@@ -1,0 +1,14 @@
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\bin\Debug\netstandard2.0\UWPApplication.deps.json
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\bin\Debug\netstandard2.0\UWPApplication.dll
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\bin\Debug\netstandard2.0\ref\UWPApplication.dll
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\bin\Debug\netstandard2.0\UWPApplication.pdb
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\UWPApplication.csprojAssemblyReference.cache
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\UWPApplication.AssemblyInfoInputs.cache
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\UWPApplication.AssemblyInfo.cs
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\UWPApplication.dll
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\ref\UWPApplication.dll
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\UWPApplication.pdb
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\UWPApplication.csproj.CoreCompileInputs.cache
+C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication\obj\Debug\netstandard2.0\XamlC.stamp

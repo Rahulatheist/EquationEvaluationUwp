@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UWPApplication.MainPage">
+
+    <StackLayout>
+        
+        <Label Text="{Binding MyProperty}"/>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="X" Padding="20,20,20,20"/>
+            <Label Text="Y" Padding="20,20,20,20"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="32" Padding="20,20,20,20"/>
+            <Label Text="100" Padding="20,20,20,20"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="44" Padding="20,20,20,20"/>
+            <Label Text="94" Padding="20,20,20,20"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="46" Padding="20,20,20,20"/>
+            <Label Text="97" Padding="20,20,20,20"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="56" Padding="20,20,20,20"/>
+            <Label Text="110" Padding="20,20,20,20"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="70" Padding="20,20,20,20"/>
+            <Label Text="114" Padding="20,20,20,20"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="83" Padding="20,20,20,20"/>
+            <Label Text="99" Padding="20,20,20,20"/>
+        </StackLayout>
+        <Label Text="Check for X or Y values" Padding="20,20,20,20"/>
+        <StackLayout Orientation="Horizontal" Padding="20,20,20,20">
+            <Label Text="Check for X"/>
+            <Entry Text="{Binding Xvalue}" Unfocused="Entry_Unfocused" Keyboard="Numeric"/>
+            <Label Text="Check for Y"/>
+            <Entry Text="{Binding Yvalue}" Unfocused="Entry_Unfocused_1" Keyboard="Numeric"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

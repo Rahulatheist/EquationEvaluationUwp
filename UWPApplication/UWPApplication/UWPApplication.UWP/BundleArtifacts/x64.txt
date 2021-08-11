@@ -1,0 +1,4 @@
+MainPackage=C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication.UWP\bin\x64\Debug\UWPApplication.UWP_1.0.0.0_x64_Debug.appx
+SymbolPackage=C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication.UWP\obj\x64\Debug\Symbols\UWPApplication.UWP_1.0.0.0_x64_Debug.appxsym
+ResourcePack=C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication.UWP\bin\x64\Debug\UWPApplication.UWP_1.0.0.0_scale-100.appx
+ResourcePack=C:\Users\mv835e\source\repos\UWPApplication\UWPApplication\UWPApplication.UWP\bin\x64\Debug\UWPApplication.UWP_1.0.0.0_scale-400.appx
